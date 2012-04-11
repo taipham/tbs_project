@@ -10,6 +10,7 @@
 *.vcxproj
 *.filters
 *.user
+*.suo
 
 Debug
 ipch
