@@ -1,0 +1,20 @@
+# Compile source
+############################
+*.o
+*.exe
+
+# Visual studio generated file
+############################
+*.sln
+*.sdf
+*.vcxproj
+*.filters
+*.user
+
+Debug
+ipch
+*.ilk
+*.pdb
+*.ipch
+
+irrlicht-1.7.3
