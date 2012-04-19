@@ -17,5 +17,6 @@ ipch
 *.ilk
 *.pdb
 *.ipch
+*.opensdf
 
 irrlicht-1.7.3
